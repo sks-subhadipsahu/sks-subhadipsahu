@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning artificial intelligence in Maulana Abul Kalam Azad University of Technology (2020-2022)
 - 💻 My Skills:
                
-               machine_learning_with_python = {
+              <p style='color: red;'> machine_learning_with_python = {
                                "basic_python": ['numpy', 'scipy', 'matplotlib', 'data structure', 'conditional statement', 'control flow', 'function']
                                "pandas": 70%
                                "sklearn": 70%
