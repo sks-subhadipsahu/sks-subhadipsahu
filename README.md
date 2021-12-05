@@ -11,6 +11,5 @@
                 }
 
                 machine_learning = ['Linear Regression', 'Logistic Regression', 'Naive Bayes', 'Decision Tree', 'Random Forest', 'KNN', 'KMeans', 'SVM']
-                model_deployment = ['Flask', 'Heroku'] 
-                web_development = ['HTML', 'CSS', 'JS', 'SQL', 'wordpress']
+                web_development = ['HTML', 'CSS', 'JS', 'reactJS', 'wordpress']
                 NLP = ['nltk', 're']
